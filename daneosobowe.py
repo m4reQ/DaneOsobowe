@@ -1,5 +1,3 @@
-import colored
-from colored import stylize
 print("Witaj, emm...")
 print("Jak mam cie nazywac?")
 class dane:
